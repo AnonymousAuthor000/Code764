@@ -1,4 +1,4 @@
-# Code304
+# Code764
 Code for the submission 764
 
 The dependency can be found in `environment.yml`. To create the conda environment:
